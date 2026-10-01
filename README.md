@@ -64,7 +64,7 @@ Strong combination of technical, analytical, research, and communication skills,
     - [MDPI Electronics Journal Article](https://www.mdpi.com/2079-8609/13/23/4694)
 
 #### **Researcher and Lecturer** | *University of Muhammadiyah Malang*
-*2018 – Present (on Ph.D. study leave) | Malang, Indonesia*
+*2018 – Present | Malang, Indonesia*
 - Conduct academic research and publish scientific work in Data Science, Machine Learning, and applied computing.
 - Supervise undergraduate student research projects and teach courses in computer science and data-driven technologies.
 - Obtained a government-recognized professional teaching certification.
