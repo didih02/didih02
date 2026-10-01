@@ -3,7 +3,6 @@
 ### 🔬 Data Scientist | Machine Learning Researcher | Software Engineer
 
 📍 **Location:** Krakow, Poland   
-🔬 **Research Group:** [Computer Vision & AI Group](https://badap.agh.edu.pl/autorzy/zespoly/zespol-widzenia-komputerowego-i-sztucznej-inteligencji-00380?limit=20&language=pl)  
 ✉️ **Email:** [diedieh02@gmail.com](mailto:diedieh02@gmail.com)  
 📱 **Phone:** +48 505 201 924  
 🎓 **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=e_MhnYMAAAAJ&hl=en&oi=ao)  
@@ -55,8 +54,8 @@ Strong combination of technical, analytical, research, and communication skills,
 ## 💼 Work Experience
 
 #### **Ph.D. Student, Computational Engineering** | *AGH University of Krakow*
-*2023 – Present | Krakow, Poland*
-*Member of the [Computer Vision and Artificial Intelligence Research Group](https://badap.agh.edu.pl/autorzy/zespoly/zespol-widzenia-komputerowego-i-sztucznej-inteligencji-00380?limit=20&language=pl)*
+*2023 – Present | Krakow, Poland*  
+*Member of the [Computer Vision and Artificial Intelligence Research Group](https://badap.agh.edu.pl/autorzy/zespoly/zespol-widzenia-komputerowego-i-sztucznej-inteligencji-00380?limit=20&language=pl)*  
 - Conduct research in machine learning, artificial intelligence, and computer vision for real-world, data-driven applications.
 - Develop efficient representation learning and dimensionality reduction techniques for large-scale image analysis, with a focus on histopathological image processing.
 - Design and evaluate deep learning-based approaches including transformer-based feature extraction, feature optimization, and intelligent classification methods.
@@ -114,8 +113,8 @@ Strong combination of technical, analytical, research, and communication skills,
 ## 🎓 Education
 
 - **Ph.D. in Computer Science** — AGH University of Krakow, Poland *(2023 – Present)*  
-  *Research Focus:* Machine Learning, Computer Vision, and Efficient Representation Learning for Large-Scale Image Analysis.
-  *Research Group:* [Computer Vision & Artificial Intelligence Group](https://badap.agh.edu.pl/autorzy/zespoly/zespol-widzenia-komputerowego-i-sztucznej-inteligencji-00380?limit=20&language=pl)
+  *Research Focus:* Machine Learning, Computer Vision, and Efficient Representation Learning for Large-Scale Image Analysis.  
+  *Research Group:* [Computer Vision & Artificial Intelligence Group](https://badap.agh.edu.pl/autorzy/zespoly/zespol-widzenia-komputerowego-i-sztucznej-inteligencji-00380?limit=20&language=pl)  
 - **Master of Computer Science** — Sepuluh Nopember Institute of Technology (ITS), Indonesia *(2015 – 2017)*  
   *Research Focus:* Machine Learning, Data Analysis, Algorithms, and Decision Support Systems.
 - **Bachelor of Computer Science** — University of Muhammadiyah Malang, Indonesia *(2010 – 2014)*  
