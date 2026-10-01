@@ -119,10 +119,3 @@ Strong combination of technical, analytical, research, and communication skills,
   *Study Focus:* Algorithms, Intelligent Systems, Software Development, and Decision Support Applications.
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=didih02&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didih02&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
