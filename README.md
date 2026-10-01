@@ -4,7 +4,6 @@
 
 📍 **Location:** Krakow, Poland   
 ✉️ **Email:** [diedieh02@gmail.com](mailto:diedieh02@gmail.com)  
-📱 **Phone:** +48 505 201 924  
 🎓 **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=e_MhnYMAAAAJ&hl=en&oi=ao)  
 💼 **LinkedIn:** [linkedin.com/in/didihrizki](https://www.linkedin.com/in/didihrizki/)  
 💻 **GitHub:** [github.com/didih02](https://github.com/didih02/)  
