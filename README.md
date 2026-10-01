@@ -2,8 +2,8 @@
 
 ### 🔬 Data Scientist | Machine Learning Researcher | Software Engineer
 
-📍 **Location:** Krakow, Poland
-🔬 **Research Group:** [Computer Vision & AI Group](https://badap.agh.edu.pl/autorzy/zespoly/zespol-widzenia-komputerowego-i-sztucznej-inteligencji-00380?limit=20&language=pl)
+📍 **Location:** Krakow, Poland   
+🔬 **Research Group:** [Computer Vision & AI Group](https://badap.agh.edu.pl/autorzy/zespoly/zespol-widzenia-komputerowego-i-sztucznej-inteligencji-00380?limit=20&language=pl)  
 ✉️ **Email:** [diedieh02@gmail.com](mailto:diedieh02@gmail.com)  
 📱 **Phone:** +48 505 201 924  
 🎓 **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=e_MhnYMAAAAJ&hl=en&oi=ao)  
